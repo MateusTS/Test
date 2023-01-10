@@ -1,7 +1,18 @@
+
+body{
+    background-color: rgb(152, 38, 156);
+    
+}
 h2 {
     color: rgb(11, 11, 143);
-    text-align: justify;
+    
 }
-p {
-    text-align: justify;
+
+#Music {
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+tr{
+    color:rgb(0, 0, 0);
+    text-align: center;
 }
